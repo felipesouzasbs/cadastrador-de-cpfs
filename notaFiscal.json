@@ -1,0 +1,7 @@
+{
+    "numeroDaNota": "123456789",
+    "cnpj": "518.796.438-04",
+    "listaProdutos": ["Arroz","Feijao","batata",12.50,8.50,],
+    "valorTotal": "200"
+
+}
